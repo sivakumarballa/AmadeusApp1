@@ -1,0 +1,7 @@
+{
+    "scope": "x_snc_amadeusapp1",
+    "scopeId": "e5cb82ae83d05f50d296a070ceaad3d4",
+    "name": "AmadeusApp1",
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "packageSourceCodeOnInstance": true
+}
